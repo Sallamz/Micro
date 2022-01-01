@@ -1,0 +1,13 @@
+S.D 1 1
+L.D 1 1
+#
+Load Reservation Stations :2
+Store Reservation Stations :2
+Add Reservation Stations :3
+Multiply Reservation Stations :2
+Load Cycles :2
+Store Cycles :2
+Add Cycles :4
+Sub Cycles :4
+Mul Cycles :8
+Div Cycles :20
